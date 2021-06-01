@@ -1,0 +1,17 @@
+{
+    "name" : "max.term-annak",
+    "version" : "0.0.1",
+    "personality" :{
+        "engine" : "eliza",
+        "voice" : "en-us+whisper",
+        "options" : {
+
+        },
+        "config":{
+            "stipple" : true,
+            "blended": true,
+            "alphabet" : "greyscale",
+            "threshold" : 65
+        }
+    }
+}
